@@ -3,3 +3,7 @@ Multi-Attribute Utility Theore (MAUT) method for a DSS about e-batteries for veh
 
 In order to run it: you just can download Octave or use the Online IDE https://octave-online.net/.
 Just run the MAUT_F.m file and the maut_sensitivity_f.m file for the sensitivity analysis test. 
+
+
+<img width="428" alt="SCR" src="https://github.com/user-attachments/assets/c347d40f-5fa6-43f7-9d07-46dbbd674efd">
+<img width="781" alt="10^4" src="https://github.com/user-attachments/assets/1fd1b6e7-46c7-43fc-9dcd-5d3f25fd2e21">
